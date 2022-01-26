@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is  **Aisha C Kleemoff 
+My name is  **Aisha C Kleemoff**
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on projects
